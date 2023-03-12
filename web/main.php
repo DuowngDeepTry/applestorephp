@@ -23,7 +23,7 @@
                         include("main/sanpham.php");
                     }
                     else{
-                        include("main/index.php");
+                        include("main/sanphammoi.php");
                     }
                 ?>
             </div>
